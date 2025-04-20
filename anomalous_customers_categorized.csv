@@ -1,0 +1,447 @@
+CustomerID,TotalQuantity,TotalRevenue,NumTransactions,NumUniqueProducts,Anomaly,AnomalyCategory
+12357.0,2708,6207.67,1,131,-1,🤔 Unclassified
+12359.0,1612,6245.53,6,213,-1,🎭 Unusual Product Diversity
+12362.0,2212,5154.58,13,201,-1,🤔 Unclassified
+12378.0,2529,4008.62,1,219,-1,🎭 Unusual Product Diversity
+12409.0,5543,11056.93,7,91,-1,🐳 High Spenders
+12415.0,77242,123725.45,26,451,-1,🐳 High Spenders
+12428.0,3503,7877.2,12,259,-1,🐳 High Spenders
+12431.0,2868,6416.39,18,163,-1,🌀 Extremely Frequent Buyers
+12433.0,11071,13375.87,7,222,-1,🐳 High Spenders
+12435.0,2055,7829.89,2,31,-1,🤔 Unclassified
+12437.0,2918,4896.66,19,120,-1,🌀 Extremely Frequent Buyers
+12451.0,6455,8933.52,6,265,-1,🐳 High Spenders
+12471.0,7965,18740.92,49,155,-1,🐳 High Spenders
+12472.0,4020,6229.48,13,229,-1,🐳 High Spenders
+12474.0,4764,7116.47,30,254,-1,🐳 High Spenders
+12476.0,2337,6546.58,20,178,-1,🌀 Extremely Frequent Buyers
+12477.0,3620,13117.01,9,194,-1,🐳 High Spenders
+12481.0,3290,5590.86,11,152,-1,🤔 Unclassified
+12484.0,2185,4495.27,8,257,-1,🎭 Unusual Product Diversity
+12500.0,2671,4206.27,13,35,-1,🤔 Unclassified
+12524.0,3699,4485.72,8,114,-1,🤔 Unclassified
+12536.0,2652,4106.82,5,260,-1,🎭 Unusual Product Diversity
+12540.0,6677,13309.039999999999,19,278,-1,🐳 High Spenders
+12557.0,4384,11990.960000000001,5,20,-1,🐳 High Spenders
+12567.0,4089,9114.94,11,323,-1,🐳 High Spenders
+12569.0,1793,4064.9900000000002,35,93,-1,🌀 Extremely Frequent Buyers
+12583.0,5009,7187.34,18,117,-1,🐳 High Spenders
+12584.0,354,1893.95,18,45,-1,🌀 Extremely Frequent Buyers
+12590.0,4279,9861.38,3,68,-1,🐳 High Spenders
+12619.0,3354,3214.81,13,50,-1,🤔 Unclassified
+12621.0,7404,13612.07,23,265,-1,🐳 High Spenders
+12626.0,3350,6388.35,13,233,-1,🎭 Unusual Product Diversity
+12637.0,2990,5953.25,10,206,-1,🎭 Unusual Product Diversity
+12664.0,1202,4863.88,10,13,-1,🤔 Unclassified
+12678.0,10899,17588.26,13,107,-1,🐳 High Spenders
+12681.0,7518,13677.59,27,269,-1,🐳 High Spenders
+12682.0,5575,12288.22,31,216,-1,🐳 High Spenders
+12683.0,4903,8221.09,20,180,-1,🐳 High Spenders
+12688.0,3028,4873.8099999999995,1,170,-1,🤔 Unclassified
+12700.0,2963,4867.99,6,194,-1,🤔 Unclassified
+12705.0,3973,6814.24,14,229,-1,🐳 High Spenders
+12709.0,3832,9294.1,26,103,-1,🐳 High Spenders
+12712.0,1044,4241.63,17,59,-1,🌀 Extremely Frequent Buyers
+12714.0,3069,4708.86,5,217,-1,🎭 Unusual Product Diversity
+12720.0,4654,5713.28,29,217,-1,🐳 High Spenders
+12731.0,8366,18793.41,14,109,-1,🐳 High Spenders
+12744.0,5234,9120.39,10,179,-1,🐳 High Spenders
+12748.0,24210,29072.1,224,1779,-1,🐳 High Spenders
+12752.0,2262,4366.78,1,53,-1,🤔 Unclassified
+12753.0,11250,21024.01,11,133,-1,🐳 High Spenders
+12754.0,6479,2949.12,5,50,-1,🤔 Unclassified
+12757.0,2385,4227.7,19,239,-1,🌀 Extremely Frequent Buyers
+12766.0,3646,6989.63,7,205,-1,🐳 High Spenders
+12798.0,5256,6977.04,3,6,-1,🐳 High Spenders
+12830.0,9847,6748.4,7,14,-1,🐳 High Spenders
+12839.0,3804,5583.62,16,99,-1,🤔 Unclassified
+12841.0,2683,3876.4,26,231,-1,🌀 Extremely Frequent Buyers
+12867.0,4274,3986.22,10,248,-1,🎭 Unusual Product Diversity
+12875.0,2019,343.2300000000001,2,1,-1,🎭 Unusual Product Diversity
+12901.0,20915,16293.1,36,33,-1,🐳 High Spenders
+12921.0,9454,16389.74,50,246,-1,🐳 High Spenders
+12931.0,23377,33462.81,20,31,-1,🐳 High Spenders
+12939.0,4876,11581.8,8,24,-1,🐳 High Spenders
+12955.0,3642,4734.26,14,82,-1,🤔 Unclassified
+12957.0,2531,3979.04,12,208,-1,🎭 Unusual Product Diversity
+12971.0,9203,10930.26,89,97,-1,🐳 High Spenders
+12980.0,864,7092.06,12,6,-1,🤔 Unclassified
+12989.0,2915,6854.51,19,41,-1,🌀 Extremely Frequent Buyers
+13001.0,5497,9797.92,15,167,-1,🐳 High Spenders
+13004.0,4796,5613.43,22,281,-1,🌀 Extremely Frequent Buyers
+13014.0,886,3365.43,16,68,-1,🤔 Unclassified
+13018.0,5434,7272.75,29,316,-1,🐳 High Spenders
+13027.0,17280,6912.0,6,6,-1,🐳 High Spenders
+13047.0,1355,3079.1,18,106,-1,🌀 Extremely Frequent Buyers
+13050.0,3707,5684.61,28,248,-1,🐳 High Spenders
+13069.0,5466,3717.82,27,287,-1,🌀 Extremely Frequent Buyers
+13078.0,5557,12432.28,43,97,-1,🐳 High Spenders
+13081.0,19021,27964.48,21,517,-1,🐳 High Spenders
+13082.0,4313,3595.48,10,64,-1,🤔 Unclassified
+13089.0,30787,57385.88,118,662,-1,🐳 High Spenders
+13090.0,2194,8689.39,18,98,-1,🌀 Extremely Frequent Buyers
+13093.0,3943,7741.47,13,100,-1,🐳 High Spenders
+13094.0,1542,1708.8600000000001,16,5,-1,🤔 Unclassified
+13097.0,2341,5893.32,14,215,-1,🎭 Unusual Product Diversity
+13098.0,15911,28658.88,41,169,-1,🐳 High Spenders
+13102.0,4160,6336.29,27,142,-1,🐳 High Spenders
+13113.0,2594,10510.0,40,113,-1,🌀 Extremely Frequent Buyers
+13124.0,2147,3866.33,3,186,-1,🤔 Unclassified
+13135.0,4300,3096.0,1,1,-1,🎭 Unusual Product Diversity
+13137.0,2225,3605.08,9,351,-1,🎭 Unusual Product Diversity
+13148.0,1828,3348.48,17,236,-1,🌀 Extremely Frequent Buyers
+13174.0,1395,2817.03,3,228,-1,🎭 Unusual Product Diversity
+13178.0,3570,5725.47,11,102,-1,🐳 High Spenders
+13198.0,2645,3384.09,8,200,-1,🤔 Unclassified
+13199.0,6172,9803.96,39,50,-1,🐳 High Spenders
+13209.0,4232,5820.16,11,259,-1,🐳 High Spenders
+13225.0,3352,6083.04,8,23,-1,🤔 Unclassified
+13230.0,1544,2763.41,15,396,-1,🎭 Unusual Product Diversity
+13256.0,12540,0.0,1,1,-1,🎭 Unusual Product Diversity
+13263.0,4780,7454.07,35,454,-1,🐳 High Spenders
+13266.0,4299,3717.67,19,83,-1,🌀 Extremely Frequent Buyers
+13267.0,1939,4404.44,27,93,-1,🌀 Extremely Frequent Buyers
+13268.0,3635,3167.64,15,259,-1,🎭 Unusual Product Diversity
+13269.0,3509,5315.92,17,181,-1,🌀 Extremely Frequent Buyers
+13316.0,6947,5815.49,5,67,-1,🐳 High Spenders
+13319.0,4686,10664.34,36,222,-1,🐳 High Spenders
+13324.0,5200,7072.8,12,25,-1,🐳 High Spenders
+13334.0,1774,3536.82,3,209,-1,🎭 Unusual Product Diversity
+13340.0,5770,10736.48,7,128,-1,🐳 High Spenders
+13408.0,16119,27487.41,81,244,-1,🐳 High Spenders
+13418.0,3839,5845.44,23,225,-1,🐳 High Spenders
+13451.0,2143,2916.45,6,318,-1,🎭 Unusual Product Diversity
+13458.0,5460,9537.92,22,246,-1,🐳 High Spenders
+13468.0,2581,5656.75,41,186,-1,🌀 Extremely Frequent Buyers
+13488.0,4512,8910.61,17,277,-1,🐳 High Spenders
+13505.0,2461,4282.88,8,182,-1,🤔 Unclassified
+13521.0,736,1093.65,3,313,-1,🎭 Unusual Product Diversity
+13534.0,2876,5613.08,43,122,-1,🌀 Extremely Frequent Buyers
+13552.0,1386,3539.53,16,83,-1,🤔 Unclassified
+13576.0,2640,6703.3,20,79,-1,🌀 Extremely Frequent Buyers
+13599.0,3169,5030.6,33,174,-1,🌀 Extremely Frequent Buyers
+13629.0,4372,7792.36,11,29,-1,🐳 High Spenders
+13668.0,3637,6216.07,29,284,-1,🐳 High Spenders
+13685.0,5056,3119.44,7,29,-1,🤔 Unclassified
+13694.0,61803,62653.1,60,372,-1,🐳 High Spenders
+13709.0,3501,6249.110000000001,17,252,-1,🐳 High Spenders
+13742.0,1116,3102.42,14,200,-1,🤔 Unclassified
+13756.0,3164,5145.12,15,66,-1,🤔 Unclassified
+13767.0,7258,16945.71,52,55,-1,🐳 High Spenders
+13777.0,12804,25748.350000000002,41,40,-1,🐳 High Spenders
+13784.0,2493,2462.79,11,9,-1,🤔 Unclassified
+13798.0,23514,36351.42,63,118,-1,🐳 High Spenders
+13848.0,3700,1255.0,3,3,-1,🤔 Unclassified
+13854.0,2278,8025.0199999999995,29,39,-1,🌀 Extremely Frequent Buyers
+13869.0,1721,3104.95,4,235,-1,🎭 Unusual Product Diversity
+13871.0,2801,6389.8,14,160,-1,🤔 Unclassified
+13881.0,10062,16989.52,22,72,-1,🐳 High Spenders
+13941.0,2307,4912.41,7,25,-1,🤔 Unclassified
+13953.0,2724,3515.68,7,8,-1,🤔 Unclassified
+13969.0,4483,8986.69,20,339,-1,🐳 High Spenders
+13985.0,3439,7024.53,16,109,-1,🤔 Unclassified
+13988.0,3025,4098.8,9,188,-1,🤔 Unclassified
+14031.0,5370,14634.640000000001,23,121,-1,🐳 High Spenders
+14032.0,2008,2929.84,18,56,-1,🌀 Extremely Frequent Buyers
+14040.0,1524,3542.19,15,150,-1,🤔 Unclassified
+14049.0,3846,5639.15,6,353,-1,🐳 High Spenders
+14051.0,3741,15477.34,26,54,-1,🐳 High Spenders
+14056.0,4232,8124.4,29,332,-1,🐳 High Spenders
+14057.0,4708,6147.4,18,180,-1,🐳 High Spenders
+14060.0,5374,6135.38,20,88,-1,🐳 High Spenders
+14062.0,5593,10464.85,12,62,-1,🐳 High Spenders
+14071.0,900,1307.41,9,271,-1,🎭 Unusual Product Diversity
+14085.0,3183,4435.79,19,274,-1,🌀 Extremely Frequent Buyers
+14088.0,12593,50415.49,14,381,-1,🐳 High Spenders
+14092.0,2061,4063.1,17,117,-1,🌀 Extremely Frequent Buyers
+14096.0,16335,57120.909999999996,34,1131,-1,🐳 High Spenders
+14101.0,6942,5976.79,6,16,-1,🐳 High Spenders
+14110.0,2455,5669.65,13,94,-1,🤔 Unclassified
+14135.0,3850,4690.31,15,96,-1,🤔 Unclassified
+14156.0,57025,113384.14,66,733,-1,🐳 High Spenders
+14159.0,4395,4678.3,14,507,-1,🎭 Unusual Product Diversity
+14180.0,710,4640.77,31,111,-1,🌀 Extremely Frequent Buyers
+14189.0,3919,4604.31,24,177,-1,🌀 Extremely Frequent Buyers
+14191.0,3657,4660.01,14,146,-1,🤔 Unclassified
+14194.0,5783,11216.75,32,274,-1,🐳 High Spenders
+14217.0,677,1925.3600000000001,24,78,-1,🌀 Extremely Frequent Buyers
+14258.0,7098,12650.08,10,59,-1,🐳 High Spenders
+14286.0,4306,4595.81,5,221,-1,🎭 Unusual Product Diversity
+14298.0,58021,50862.44,45,891,-1,🐳 High Spenders
+14299.0,2013,2855.35,18,95,-1,🌀 Extremely Frequent Buyers
+14329.0,3075,4928.74,14,220,-1,🎭 Unusual Product Diversity
+14367.0,4410,9167.82,19,272,-1,🐳 High Spenders
+14397.0,1852,2556.68,23,18,-1,🌀 Extremely Frequent Buyers
+14401.0,4505,4039.98,14,114,-1,🤔 Unclassified
+14410.0,293,576.3,15,197,-1,🤔 Unclassified
+14415.0,2973,5811.56,18,289,-1,🌀 Extremely Frequent Buyers
+14422.0,2906,4263.64,6,189,-1,🤔 Unclassified
+14426.0,2339,3918.9,16,187,-1,🤔 Unclassified
+14432.0,2070,2255.51,6,256,-1,🎭 Unusual Product Diversity
+14456.0,2901,3047.63,14,582,-1,🎭 Unusual Product Diversity
+14502.0,1483,2351.02,14,370,-1,🎭 Unusual Product Diversity
+14505.0,2743,5818.7,11,545,-1,🎭 Unusual Product Diversity
+14525.0,2662,4221.37,13,219,-1,🎭 Unusual Product Diversity
+14527.0,2049,7711.38,86,338,-1,🌀 Extremely Frequent Buyers
+14534.0,1925,4075.35,25,339,-1,🌀 Extremely Frequent Buyers
+14535.0,1825,2841.09,4,281,-1,🎭 Unusual Product Diversity
+14543.0,600,2916.17,21,43,-1,🌀 Extremely Frequent Buyers
+14547.0,2658,3986.7400000000002,9,199,-1,🤔 Unclassified
+14560.0,1223,2174.18,24,40,-1,🌀 Extremely Frequent Buyers
+14562.0,1670,4709.22,22,192,-1,🌀 Extremely Frequent Buyers
+14606.0,5978,11713.85,128,839,-1,🐳 High Spenders
+14607.0,7998,11341.1,17,38,-1,🐳 High Spenders
+14609.0,7026,601.56,4,2,-1,🎭 Unusual Product Diversity
+14646.0,196719,279489.02,77,721,-1,🐳 High Spenders
+14667.0,5382,9231.2,27,356,-1,🐳 High Spenders
+14680.0,12474,26932.34,23,88,-1,🐳 High Spenders
+14688.0,3222,5107.38,27,151,-1,🌀 Extremely Frequent Buyers
+14701.0,909,2486.2200000000003,12,274,-1,🎭 Unusual Product Diversity
+14702.0,1444,3250.64,18,197,-1,🌀 Extremely Frequent Buyers
+14704.0,1082,1546.91,9,288,-1,🎭 Unusual Product Diversity
+14711.0,966,2838.2,12,222,-1,🎭 Unusual Product Diversity
+14730.0,1132,2005.06,8,317,-1,🎭 Unusual Product Diversity
+14733.0,3725,9451.54,15,103,-1,🐳 High Spenders
+14735.0,2160,5807.6900000000005,34,104,-1,🌀 Extremely Frequent Buyers
+14739.0,3817,3899.1,8,47,-1,🤔 Unclassified
+14769.0,7406,10641.6,10,724,-1,🐳 High Spenders
+14796.0,5942,7839.51,27,408,-1,🐳 High Spenders
+14800.0,3634,4236.34,16,250,-1,🎭 Unusual Product Diversity
+14808.0,2054,2175.37,15,179,-1,🤔 Unclassified
+14849.0,5656,7904.28,28,163,-1,🐳 High Spenders
+14866.0,6569,14197.45,13,30,-1,🐳 High Spenders
+14895.0,4823,11020.26,24,283,-1,🐳 High Spenders
+14911.0,77180,132572.62,248,1824,-1,🐳 High Spenders
+14936.0,4083,8117.42,9,213,-1,🐳 High Spenders
+14944.0,2801,5842.95,14,101,-1,🤔 Unclassified
+14952.0,3295,7912.79,15,119,-1,🤔 Unclassified
+14961.0,3692,7006.58,12,195,-1,🐳 High Spenders
+15005.0,4204,6180.49,35,374,-1,🐳 High Spenders
+15021.0,829,1872.28,13,288,-1,🎭 Unusual Product Diversity
+15023.0,2863,6763.16,12,348,-1,🎭 Unusual Product Diversity
+15032.0,2668,4464.1,5,31,-1,🤔 Unclassified
+15033.0,1692,2571.02,11,314,-1,🎭 Unusual Product Diversity
+15034.0,2411,4277.66,11,301,-1,🎭 Unusual Product Diversity
+15039.0,9191,19786.44,52,417,-1,🐳 High Spenders
+15044.0,2786,7629.38,22,235,-1,🌀 Extremely Frequent Buyers
+15046.0,3307,5064.01,16,147,-1,🤔 Unclassified
+15061.0,28590,54228.74,55,73,-1,🐳 High Spenders
+15078.0,5069,9623.35,38,108,-1,🐳 High Spenders
+15093.0,3733,4410.14,9,52,-1,🤔 Unclassified
+15125.0,5991,11117.05,23,104,-1,🐳 High Spenders
+15144.0,3026,6530.04,18,133,-1,🌀 Extremely Frequent Buyers
+15150.0,3633,5303.97,11,283,-1,🎭 Unusual Product Diversity
+15152.0,2694,4684.24,16,196,-1,🤔 Unclassified
+15159.0,11394,18573.68,34,368,-1,🐳 High Spenders
+15187.0,1869,4670.08,18,64,-1,🌀 Extremely Frequent Buyers
+15189.0,6035,15802.14,53,82,-1,🐳 High Spenders
+15194.0,5648,7521.17,22,209,-1,🐳 High Spenders
+15195.0,1404,3861.0,1,1,-1,🎭 Unusual Product Diversity
+15218.0,3329,5756.89,11,78,-1,🤔 Unclassified
+15249.0,3557,6657.36,15,212,-1,🐳 High Spenders
+15251.0,6084,10327.11,15,97,-1,🐳 High Spenders
+15271.0,1257,2485.82,16,185,-1,🤔 Unclassified
+15290.0,4431,7803.7699999999995,21,94,-1,🐳 High Spenders
+15291.0,2074,4596.51,20,63,-1,🌀 Extremely Frequent Buyers
+15299.0,2940,3787.09,11,9,-1,🤔 Unclassified
+15301.0,2768,5028.12,14,167,-1,🤔 Unclassified
+15311.0,37720,59419.340000000004,118,580,-1,🐳 High Spenders
+15358.0,6927,8234.8,29,302,-1,🐳 High Spenders
+15372.0,2924,2007.3999999999999,1,27,-1,🤔 Unclassified
+15382.0,4003,5927.86,8,200,-1,🐳 High Spenders
+15443.0,1660,3212.16,8,238,-1,🎭 Unusual Product Diversity
+15465.0,1217,6945.0199999999995,24,43,-1,🌀 Extremely Frequent Buyers
+15482.0,2998,6568.72,16,47,-1,🤔 Unclassified
+15498.0,6084,12396.46,35,365,-1,🐳 High Spenders
+15502.0,3823,5541.46,23,167,-1,🌀 Extremely Frequent Buyers
+15513.0,5545,14520.08,22,190,-1,🐳 High Spenders
+15529.0,3489,3967.78,12,423,-1,🎭 Unusual Product Diversity
+15547.0,4032,4954.84,14,441,-1,🎭 Unusual Product Diversity
+15555.0,4410,4758.2,20,409,-1,🌀 Extremely Frequent Buyers
+15570.0,2058,4109.97,13,234,-1,🎭 Unusual Product Diversity
+15581.0,286,3429.9700000000003,14,134,-1,🤔 Unclassified
+15601.0,4978,6745.36,17,230,-1,🐳 High Spenders
+15615.0,5493,10360.04,27,188,-1,🐳 High Spenders
+15622.0,1552,3224.53,16,178,-1,🤔 Unclassified
+15640.0,6572,12433.34,17,243,-1,🐳 High Spenders
+15694.0,1665,6423.6,15,42,-1,🤔 Unclassified
+15719.0,2724,5043.96,14,307,-1,🎭 Unusual Product Diversity
+15727.0,3065,5178.96,7,216,-1,🎭 Unusual Product Diversity
+15738.0,2967,4788.77,19,48,-1,🌀 Extremely Frequent Buyers
+15749.0,9014,21535.9,4,6,-1,🐳 High Spenders
+15752.0,1973,2628.93,8,236,-1,🎭 Unusual Product Diversity
+15769.0,27660,51823.72,29,29,-1,🐳 High Spenders
+15786.0,3331,4834.2,5,257,-1,🎭 Unusual Product Diversity
+15804.0,2515,3848.55,19,170,-1,🌀 Extremely Frequent Buyers
+15805.0,3337,5452.17,20,221,-1,🌀 Extremely Frequent Buyers
+15827.0,842,1641.48,20,74,-1,🌀 Extremely Frequent Buyers
+15838.0,9007,33350.76,21,56,-1,🐳 High Spenders
+15856.0,10941,16173.67,31,302,-1,🐳 High Spenders
+15861.0,2543,3000.36,9,343,-1,🎭 Unusual Product Diversity
+15867.0,2052,3797.79,16,304,-1,🎭 Unusual Product Diversity
+15939.0,4725,6102.26,16,29,-1,🐳 High Spenders
+15955.0,2124,4389.81,16,137,-1,🤔 Unclassified
+15971.0,1717,4199.85,12,10,-1,🤔 Unclassified
+15993.0,2042,2756.82,10,336,-1,🎭 Unusual Product Diversity
+15998.0,2037,3084.17,6,376,-1,🎭 Unusual Product Diversity
+16000.0,5110,12393.7,3,9,-1,🐳 High Spenders
+16013.0,13845,33366.25,54,35,-1,🐳 High Spenders
+16029.0,32148,50992.61,76,47,-1,🐳 High Spenders
+16033.0,3516,8727.61,27,541,-1,🐳 High Spenders
+16049.0,793,1111.79,3,248,-1,🎭 Unusual Product Diversity
+16110.0,733,1337.48,3,283,-1,🎭 Unusual Product Diversity
+16126.0,2125,6287.77,4,58,-1,🤔 Unclassified
+16133.0,8738,14305.66,46,220,-1,🐳 High Spenders
+16145.0,3072,3741.98,18,135,-1,🌀 Extremely Frequent Buyers
+16161.0,2506,5352.97,26,297,-1,🌀 Extremely Frequent Buyers
+16168.0,1888,3770.6,28,57,-1,🌀 Extremely Frequent Buyers
+16180.0,5853,10217.48,10,94,-1,🐳 High Spenders
+16182.0,3791,6617.65,4,18,-1,🐳 High Spenders
+16187.0,5004,6841.24,17,160,-1,🐳 High Spenders
+16191.0,3203,4913.32,25,68,-1,🌀 Extremely Frequent Buyers
+16210.0,7559,21086.3,18,75,-1,🐳 High Spenders
+16241.0,1453,2607.87,13,351,-1,🎭 Unusual Product Diversity
+16253.0,3137,3665.62,3,115,-1,🤔 Unclassified
+16265.0,2627,5423.15,11,167,-1,🤔 Unclassified
+16308.0,8000,2560.0,4,1,-1,🎭 Unusual Product Diversity
+16326.0,689,3085.96,15,159,-1,🤔 Unclassified
+16333.0,32184,26626.8,22,9,-1,🐳 High Spenders
+16353.0,2006,6675.71,23,51,-1,🌀 Extremely Frequent Buyers
+16360.0,2128,3411.69,8,365,-1,🎭 Unusual Product Diversity
+16393.0,1529,2941.05,20,126,-1,🌀 Extremely Frequent Buyers
+16401.0,3858,4061.24,20,71,-1,🌀 Extremely Frequent Buyers
+16422.0,32592,33805.69,75,73,-1,🐳 High Spenders
+16458.0,2154,3482.7400000000002,18,53,-1,🌀 Extremely Frequent Buyers
+16474.0,918,1811.47,11,237,-1,🎭 Unusual Product Diversity
+16523.0,4233,9295.67,28,154,-1,🐳 High Spenders
+16525.0,6493,11895.57,29,75,-1,🐳 High Spenders
+16532.0,2016,6748.8,3,2,-1,🎭 Unusual Product Diversity
+16549.0,2365,4154.64,10,449,-1,🎭 Unusual Product Diversity
+16553.0,4595,5664.57,14,63,-1,🐳 High Spenders
+16558.0,5346,8257.04,24,265,-1,🐳 High Spenders
+16592.0,2914,4073.28,19,145,-1,🌀 Extremely Frequent Buyers
+16607.0,2822,3038.67,16,140,-1,🤔 Unclassified
+16626.0,2670,4379.65,20,87,-1,🌀 Extremely Frequent Buyers
+16652.0,3267,6654.26,11,75,-1,🤔 Unclassified
+16655.0,2367,3794.52,6,208,-1,🎭 Unusual Product Diversity
+16656.0,8873,8568.24,21,14,-1,🐳 High Spenders
+16670.0,2524,4022.46,17,181,-1,🌀 Extremely Frequent Buyers
+16672.0,2812,8093.59,23,23,-1,🌀 Extremely Frequent Buyers
+16678.0,2368,3013.83,17,94,-1,🌀 Extremely Frequent Buyers
+16684.0,49390,65892.08,31,122,-1,🐳 High Spenders
+16686.0,2025,3043.48,9,410,-1,🎭 Unusual Product Diversity
+16700.0,4019,5040.0,17,165,-1,🌀 Extremely Frequent Buyers
+16701.0,6211,5150.2699999999995,18,100,-1,🌀 Extremely Frequent Buyers
+16705.0,5458,13946.130000000001,29,138,-1,🐳 High Spenders
+16710.0,1836,2483.04,10,273,-1,🎭 Unusual Product Diversity
+16712.0,1749,3645.43,11,260,-1,🎭 Unusual Product Diversity
+16713.0,4264,6840.2300000000005,21,346,-1,🐳 High Spenders
+16722.0,4989,4711.21,16,98,-1,🤔 Unclassified
+16729.0,5769,7076.28,26,240,-1,🐳 High Spenders
+16745.0,6727,7170.7,18,150,-1,🐳 High Spenders
+16746.0,4662,6694.31,19,239,-1,🐳 High Spenders
+16754.0,4280,2002.4,1,2,-1,🎭 Unusual Product Diversity
+16764.0,1247,2758.25,18,210,-1,🌀 Extremely Frequent Buyers
+16767.0,4435,5580.6,11,148,-1,🤔 Unclassified
+16779.0,5236,10454.05,28,165,-1,🐳 High Spenders
+16782.0,703,2242.25,19,105,-1,🌀 Extremely Frequent Buyers
+16813.0,1525,1692.98,10,250,-1,🎭 Unusual Product Diversity
+16814.0,2768,6500.6,22,122,-1,🌀 Extremely Frequent Buyers
+16839.0,8470,15357.78,39,123,-1,🐳 High Spenders
+16843.0,10154,10183.82,17,229,-1,🐳 High Spenders
+16873.0,3825,7066.31,10,180,-1,🐳 High Spenders
+16904.0,2034,3754.27,16,387,-1,🎭 Unusual Product Diversity
+16910.0,886,1510.06,8,318,-1,🎭 Unusual Product Diversity
+16923.0,3183,6666.83,26,319,-1,🌀 Extremely Frequent Buyers
+16928.0,2094,2781.5,19,71,-1,🌀 Extremely Frequent Buyers
+16931.0,3158,4604.22,21,451,-1,🌀 Extremely Frequent Buyers
+16940.0,2169,3049.88,3,227,-1,🎭 Unusual Product Diversity
+16945.0,2725,4345.5,19,139,-1,🌀 Extremely Frequent Buyers
+16984.0,2408,4392.42,5,354,-1,🎭 Unusual Product Diversity
+17017.0,6613,8574.11,27,92,-1,🐳 High Spenders
+17049.0,2669,5594.78,11,202,-1,🤔 Unclassified
+17059.0,1855,3095.04,5,297,-1,🎭 Unusual Product Diversity
+17068.0,2154,4531.34,22,118,-1,🌀 Extremely Frequent Buyers
+17107.0,4537,10380.43,7,272,-1,🐳 High Spenders
+17133.0,2730,4892.240000000001,7,13,-1,🤔 Unclassified
+17139.0,5163,10585.57,15,313,-1,🐳 High Spenders
+17220.0,1905,3198.25,14,307,-1,🎭 Unusual Product Diversity
+17231.0,1736,3127.82,14,297,-1,🎭 Unusual Product Diversity
+17238.0,1822,3744.65,17,304,-1,🌀 Extremely Frequent Buyers
+17243.0,3362,8628.55,30,183,-1,🌀 Extremely Frequent Buyers
+17306.0,11470,8600.73,21,14,-1,🐳 High Spenders
+17315.0,3856,6204.46,43,260,-1,🐳 High Spenders
+17337.0,1240,1944.32,7,419,-1,🎭 Unusual Product Diversity
+17338.0,3123,6612.18,10,390,-1,🎭 Unusual Product Diversity
+17340.0,5902,11891.18,16,237,-1,🐳 High Spenders
+17346.0,1639,2611.58,16,302,-1,🎭 Unusual Product Diversity
+17364.0,2680,4455.73,12,288,-1,🎭 Unusual Product Diversity
+17365.0,4777,4801.56,8,278,-1,🎭 Unusual Product Diversity
+17377.0,2075,3925.92,21,192,-1,🌀 Extremely Frequent Buyers
+17381.0,25646,20272.43,30,40,-1,🐳 High Spenders
+17389.0,7430,31300.079999999998,43,48,-1,🐳 High Spenders
+17396.0,2005,7330.8,8,24,-1,🤔 Unclassified
+17404.0,32324,30300.82,18,111,-1,🐳 High Spenders
+17416.0,4266,6838.34,9,187,-1,🐳 High Spenders
+17426.0,3082,5022.26,7,181,-1,🤔 Unclassified
+17428.0,9435,17078.45,33,261,-1,🐳 High Spenders
+17450.0,69029,187482.17,55,128,-1,🐳 High Spenders
+17509.0,3530,6100.74,11,75,-1,🐳 High Spenders
+17511.0,63012,88125.38,46,479,-1,🐳 High Spenders
+17530.0,1526,2385.0,10,308,-1,🎭 Unusual Product Diversity
+17571.0,905,1498.51,4,247,-1,🎭 Unusual Product Diversity
+17576.0,1954,3457.78,22,244,-1,🌀 Extremely Frequent Buyers
+17581.0,5861,10736.11,31,238,-1,🐳 High Spenders
+17593.0,3095,3911.56,6,191,-1,🤔 Unclassified
+17596.0,4400,2827.93,7,168,-1,🤔 Unclassified
+17602.0,4135,5050.77,8,336,-1,🎭 Unusual Product Diversity
+17611.0,2552,3947.87,19,441,-1,🌀 Extremely Frequent Buyers
+17613.0,2470,4509.37,17,211,-1,🌀 Extremely Frequent Buyers
+17644.0,1741,2768.98,17,106,-1,🌀 Extremely Frequent Buyers
+17652.0,2479,4737.13,18,121,-1,🌀 Extremely Frequent Buyers
+17675.0,8278,20098.1,41,245,-1,🐳 High Spenders
+17677.0,9725,16219.22,43,186,-1,🐳 High Spenders
+17686.0,2478,5739.46,7,209,-1,🎭 Unusual Product Diversity
+17690.0,1767,4748.45,16,186,-1,🤔 Unclassified
+17706.0,3833,10097.37,22,273,-1,🐳 High Spenders
+17716.0,3004,5505.79,12,175,-1,🤔 Unclassified
+17719.0,2455,5367.8,18,111,-1,🌀 Extremely Frequent Buyers
+17730.0,3567,5288.83,15,130,-1,🤔 Unclassified
+17735.0,8439,13110.02,19,323,-1,🐳 High Spenders
+17757.0,3316,5585.49,31,278,-1,🌀 Extremely Frequent Buyers
+17758.0,2091,3456.7000000000003,8,312,-1,🎭 Unusual Product Diversity
+17799.0,1755,3026.08,11,280,-1,🎭 Unusual Product Diversity
+17809.0,2015,4627.62,15,49,-1,🤔 Unclassified
+17811.0,4128,7677.71,51,362,-1,🐳 High Spenders
+17813.0,777,1714.6,7,297,-1,🎭 Unusual Product Diversity
+17841.0,22865,40340.78,169,1353,-1,🐳 High Spenders
+17850.0,1693,5288.63,35,25,-1,🌀 Extremely Frequent Buyers
+17857.0,19086,26763.34,25,19,-1,🐳 High Spenders
+17865.0,5698,10158.54,27,193,-1,🐳 High Spenders
+17920.0,2516,4204.1,17,410,-1,🌀 Extremely Frequent Buyers
+17940.0,9751,1983.5800000000002,14,8,-1,🤔 Unclassified
+17949.0,27571,52750.84,52,30,-1,🐳 High Spenders
+17954.0,2229,2295.37,16,330,-1,🎭 Unusual Product Diversity
+17961.0,560,1296.44,39,211,-1,🌀 Extremely Frequent Buyers
+17965.0,1556,2622.57,14,274,-1,🎭 Unusual Product Diversity
+17975.0,1552,4393.61,14,189,-1,🤔 Unclassified
+18041.0,3810,4161.14,22,288,-1,🌀 Extremely Frequent Buyers
+18055.0,2450,6752.14,11,226,-1,🎭 Unusual Product Diversity
+18069.0,1308,2021.82,7,335,-1,🎭 Unusual Product Diversity
+18073.0,3098,3864.44,13,23,-1,🤔 Unclassified
+18079.0,7432,3651.97,4,101,-1,🤔 Unclassified
+18087.0,3571,3770.1199999999994,4,7,-1,🤔 Unclassified
+18092.0,4250,9065.76,12,28,-1,🐳 High Spenders
+18102.0,64122,256438.49,62,163,-1,🐳 High Spenders
+18109.0,4219,7925.32,31,123,-1,🐳 High Spenders
+18118.0,2877,5595.77,31,428,-1,🌀 Extremely Frequent Buyers
+18139.0,5461,8393.22,8,36,-1,🐳 High Spenders
+18172.0,3170,7490.17,25,103,-1,🌀 Extremely Frequent Buyers
+18198.0,3839,5083.06,21,83,-1,🌀 Extremely Frequent Buyers
+18223.0,2890,6315.2300000000005,27,122,-1,🌀 Extremely Frequent Buyers
+18225.0,3206,5361.02,17,153,-1,🌀 Extremely Frequent Buyers
+18226.0,3459,5192.1,14,141,-1,🤔 Unclassified
+18229.0,2488,7276.900000000001,20,67,-1,🌀 Extremely Frequent Buyers
+18241.0,1047,2058.09,18,60,-1,🌀 Extremely Frequent Buyers
+18251.0,7824,4314.72,1,16,-1,🤔 Unclassified
+18283.0,1397,2094.88,16,272,-1,🎭 Unusual Product Diversity
